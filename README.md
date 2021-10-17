@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daphne1998
 - 👀 I’m interested in the planet
 - 🌱 I’m currently learning about bussiness
-- 💞️ I’m looking to collaborate on project that search BBDD available about COVID-19 in Chile
+- 💞️ I'm looking to collaborate on projects with other colleagues.
 - 📫 How to reach me ... maybe calling me? ha.
 
 <!---
